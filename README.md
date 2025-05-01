@@ -1,3 +1,7 @@
+# Interactive-Quiz-Webapp
+Developed a single-page web application that presents users with a quiz consisting of multiple-choice questions. The application track's the user's score and provide feedback after the quiz is completed.
+
+
 **How to run it Locally**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
