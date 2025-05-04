@@ -2,6 +2,7 @@
 Developed a single-page web application that presents users with a quiz consisting of multiple-choice questions. The application track's the user's score and provide feedback after the quiz is completed.
 Interface in dark mode
 ![image](https://github.com/user-attachments/assets/a9fb98d7-4a5e-427f-bfd8-ba99f32965a8)
+![image](https://github.com/user-attachments/assets/708ab89b-a005-47c8-b5e1-65bf277b49f9)
 in bright mode
 ![image](https://github.com/user-attachments/assets/683e5f69-c249-4344-976b-bd6af0b03c02)
 for wrong answer
