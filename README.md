@@ -11,7 +11,7 @@ Feedback
 
 
 **Website link**
-(https://quizwebapp001.netlify.app/)](https://webapp0001.netlify.app/)
+(https://webapp0001.netlify.app/)
 
 **How to run it Locally**
 
